@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/traffic-lights/static/js/main.8d9a5ac0.js",
+    "main.js": "/traffic-lights/static/js/main.1ab33543.js",
     "index.html": "/traffic-lights/index.html",
-    "main.8d9a5ac0.js.map": "/traffic-lights/static/js/main.8d9a5ac0.js.map"
+    "main.1ab33543.js.map": "/traffic-lights/static/js/main.1ab33543.js.map"
   },
   "entrypoints": [
-    "static/js/main.8d9a5ac0.js"
+    "static/js/main.1ab33543.js"
   ]
 }
