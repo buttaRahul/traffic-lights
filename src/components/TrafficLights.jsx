@@ -16,7 +16,11 @@ import { useEffect, useState } from "react"
 // styled(Box)()
 // styled(Box)(()=>({}))
 const TrafficLightContainer = styled(Box)(
+
     {
+        // left:'20px',
+        margin: 'auto',
+        marginTop:'100px',
         display: 'flex',
         gap: '50px',
         border: '2px solid brown',
